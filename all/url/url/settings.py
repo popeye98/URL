@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'shortner',
     'django_hosts',
+    'analytics',
 ]
 
 MIDDLEWARE = [
